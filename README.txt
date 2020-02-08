@@ -1,6 +1,6 @@
 = time-as_f
 
-* http://seattlerb.org
+home :: http://seattlerb.org
 
 == DESCRIPTION:
 

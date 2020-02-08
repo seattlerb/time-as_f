@@ -11,6 +11,8 @@ Hoe.add_include_dirs "../../ZenTest/dev/lib"
 
 Hoe.spec 'time-as_f' do
   developer 'Ryan Davis', 'ryand-ruby@zenspider.com'
+
+  license "MIT"
 end
 
 # vim: syntax=ruby
